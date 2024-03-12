@@ -1,2 +1,2 @@
 # Web-Ad-Optimization
- Optimizing web advertising using Reinforcement Learning (RL) with Upper Confidence Bound (UCB) is a powerful approach to maximize the effectiveness of ad campaigns
+ Optimizing web advertising using Reinforcement Learning (RL) with Upper Confidence Bound (UCB) is a powerful approach to maximize the effectiveness of ad campaigns. Reinforcement Learning is a type of machine learning where an agent learns to make decisions by interacting with an environment, and UCB is a popular algorithm used to balance exploration and exploitation in such scenarios.
